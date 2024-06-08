@@ -1,7 +1,7 @@
 #INITIAL SETTINGS
 data_source:
-  directory:
-  filename:
+  directory: "../data/"
+  filename: "breast-cancer-wisconsin.data"
   column_names:
   drop_columns:
   target_name:
